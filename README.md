@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 </a>
 <br>
 
-
 ![](https://img.shields.io/badge/_Lang-_Csharp-blue?style=plastic&logo=C%20Sharp)
 ![](https://img.shields.io/badge/_Lang-_Fsharp-blue?style=plastic&logo=F%20Sharp)
 ![](https://img.shields.io/badge/Lang-Cpp-yellowgreen)
@@ -34,3 +33,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/DB-PgSql-green)
 ![](https://img.shields.io/badge/DB-MongoDb-green)
 ![](https://img.shields.io/badge/DB-SqLite-green)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amir-Hossin-pr&show_icons=true&bg_color=20,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
