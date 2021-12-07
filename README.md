@@ -20,18 +20,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://t.me/amirhosseinbaderan">
-  <img align="left" alt="Ali2004hh" src="https://img.shields.io/badge/telegram-informational?style=flat&logo=telegram&logoColor=white&color=informational" />
+  <img align="left" alt="Amir0hossin0pr@gmail.com" src="https://img.shields.io/badge/telegram-informational?style=flat&logo=telegram&logoColor=white&color=informational" />
 </a>
 <br>
 
-![](https://img.shields.io/badge/_Lang-_Csharp-blue?style=plastic&logo=C%20Sharp)
-![](https://img.shields.io/badge/_Lang-_Fsharp-blue?style=plastic&logo=F%20Sharp)
-![](https://img.shields.io/badge/Lang-Cpp-yellowgreen)
-![](https://img.shields.io/badge/Lang-Js-green)
-![](https://img.shields.io/badge/Lang-Ts-yellowgreen)
-![](https://img.shields.io/badge/_DB-_Sql%20Server-blue?style=plastic&logo=Microsoft%20sql%20server)
-![](https://img.shields.io/badge/DB-PgSql-green)
-![](https://img.shields.io/badge/DB-MongoDb-green)
-![](https://img.shields.io/badge/DB-SqLite-green)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Amir-Hossin-pr&show_icons=true&bg_color=20,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-hossin-pr&theme=tokyonight)
