@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amir-Hossin-pr&show_icons=true&bg_color=20,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Amir-Hossin-pr&show_icons=true&bg_color=22,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-hossin-pr&theme=tokyonight" />
