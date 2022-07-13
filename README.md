@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=amir-hossin-pr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
