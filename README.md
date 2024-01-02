@@ -6,7 +6,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran. 
 
-CTO of <a href="https://matemenu.ir" > Menu </a>
+CEO of FTM & CTO of <a href="https://matemenu.ir" > Menu </a>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
