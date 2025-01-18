@@ -20,10 +20,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amirhosseinbaderan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amir-hossein-baderan-9018b9213 )
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=AmirHosseinBaderan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmirHosseinBaderan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinBaderan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15)
-
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinBaderan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15" alt="GitHub Streak"  width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirHosseinBaderan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="40%"/>
+</div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AmirHosseinBaderan)
 
