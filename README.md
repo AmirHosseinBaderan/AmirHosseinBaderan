@@ -28,3 +28,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![trophy](https://github-profile-trophy.vercel.app/?username=AmirHosseinBaderan)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![amir hossin profile views](https://u8views.com/api/v1/github/profiles/65053996/views/day-week-month-total-count.svg)](https://u8views.com/github/AmirHosseinBaderan)
