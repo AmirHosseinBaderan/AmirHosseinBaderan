@@ -16,7 +16,7 @@ Current
 <br>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinBaderan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15" alt="GitHub Streak"  width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmirHosseinBaderan&theme=github_dark" alt="GitHub Streak"  width="40%"/>
 </div>
 
 
